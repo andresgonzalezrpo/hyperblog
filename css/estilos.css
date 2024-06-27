@@ -40,6 +40,7 @@ body
 {
     h1{font-size:20px}
 }
-#post{background:#fff;
+#post{
+    background:#fff;
     padding:1em
 }
