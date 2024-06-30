@@ -9,6 +9,8 @@ Un blog espectacular de bienestar donde en vas a aprender a comer y aparte vas a
 6. Mejoras el aspecto de tu piel.
 7. Creado por Andrés G
 8. Incluye ejemplos de alimentación
+9. Disponible para mayores de 14 años
+
 [[1]instagram][1]
 [1]: https://www.instagram.com/andres_wellness?igsh=NjlwMTF4cDFyOGQ0 "perfil instagram"
 
