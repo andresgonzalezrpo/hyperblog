@@ -7,6 +7,7 @@ Un blog espectacular de bienestar donde en vas a aprender a comer y aparte vas a
 4. Mejoras la calidad del sueño
 5. Fortaleces tu sistema inmunológico
 6. Mejoras el aspecto de tu piel.
+7. Creado por Andrés G
 
 [[1]instagram][1]
 [1]: https://www.instagram.com/andres_wellness?igsh=NjlwMTF4cDFyOGQ0 "perfil instagram"
